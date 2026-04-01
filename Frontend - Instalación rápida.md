@@ -7,10 +7,12 @@ Abrir el proyecto en Visual Studio Code
 EN EL TERMINAL DE VS CODE
 
 Instalar las dependencias:
-npm install
+
+comando: npm install
 
 Ejecutar el frontend:
-npm run dev
+
+comando: npm run dev
 
 El frontend se ejecutará en:
 
