@@ -1,0 +1,40 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs / editores
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache
+.cache/
+.vite/
+.eslintcache
+
+# Temporales
+tmp/
+temp/
+.tmp/
